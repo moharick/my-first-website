@@ -10,3 +10,11 @@ ul{
     font-style: italic;
     font-size: 20px;
 }
+p{
+    font-size: 30px;
+}
+ol{
+    font-size: 20px;
+    line-height: 25px;
+
+}
