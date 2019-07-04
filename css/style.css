@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    font-family: 'Lobster', cursive;
+}
+h1{
+    color: #000000;
+    font-size: 50px;
+}
+ul{
+    font-style: italic;
+    font-size: 20px;
+}
